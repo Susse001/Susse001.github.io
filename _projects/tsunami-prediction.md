@@ -8,7 +8,7 @@ tech:
   - Matplotlib
 ---
 
-## 🌊 Tsunami Prediction Model
+## Tsunami Prediction Model
 
 Predicting tsunami occurrence using a tuned **HistGradientBoostingClassifier** to improve early risk identification.
 
@@ -24,5 +24,4 @@ This project analyzes earthquake events between 2001 and 2022 and predicts wheth
 - Hyperparameter tuning
 - Model evaluation and validation
 
-<!-- Add link later -->
-<!-- [View on GitHub](...) -->
+<!-- [View on GitHub](https://github.com/Susse001/tsunamipredictionsusse#) -->
