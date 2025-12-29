@@ -2,20 +2,20 @@
 layout: default
 ---
 
-## 👋 Hi, I’m Stephen Usselman
+## Hi, I’m Stephen Usselman
 
 I’m a software developer with interests in data analysis, machine learning, and large-language models.
 
 ---
 
-## 🧠 Skills
+## Skills
 - Languages: C++, Python, PHP, Java, JavaScript
 - Machine Learning: Scikit-Learn, Pandas, Matplotlib
 - Tools & Frameworks: SQL (MySQL, SQLite), Git, Laravel, Gradle, Jira
 
 ---
 
-## 📂 Projects
+## Projects
 
 {% for project in site.projects %}
 ### {{ project.title }}
