@@ -17,20 +17,14 @@ I’m a software developer with interests in data analysis, machine learning, an
 
 ## 📂 Projects
 
-### 🌊 Tsunami Prediction Model
-Predicting tsunami occurrence using a tuned HistGradientBoostingClassifier to improve early risk identification.
+{% for project in site.projects %}
+### {{ project.title }}
+{{ project.excerpt }}
 
-- **Tech:** Python, Scikit-Learn, Pandas, Matplotlib
-- **Data:** Earthquake & tsunami datasets (2001–2022)
+[View Project]({{ project.url }})
 
 ---
-
-### 🗺️ Itiner-ease
-AI-powered itinerary creation and recommendation application.
-
-- **Tech:** Laravel, CSV Reader, OpenAI, TALL Tech Stack
-- **Contributions:** CSV data handling, automated itinerary generation, project coordination
-- [View on GitHub](https://github.com/jandraarias/f25-Copper)
+{% endfor %}
 
 ---
 
