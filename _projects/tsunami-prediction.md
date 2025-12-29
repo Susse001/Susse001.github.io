@@ -24,4 +24,4 @@ This project analyzes earthquake events between 2001 and 2022 and predicts wheth
 - Hyperparameter tuning
 - Model evaluation and validation
 
-<!-- [View on GitHub](https://github.com/Susse001/tsunamipredictionsusse#) -->
+[View on GitHub](https://github.com/Susse001/tsunamipredictionsusse#)
