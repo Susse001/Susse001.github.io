@@ -1,3 +1,8 @@
 theme: jekyll-theme-slate
 title: Stephen Usselman
 description: Software Developer • Machine Learning • AI
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
