@@ -29,7 +29,7 @@ Predicting tsunami occurrence using a tuned HistGradientBoostingClassifier to im
 AI-powered itinerary creation and recommendation application.
 
 - **Tech:** Laravel, CSV Reader, OpenAI, TALL Tech Stack
-- **Contributions:** CSV data ingestion, automated itinerary generation, project coordination
+- **Contributions:** CSV data handling, automated itinerary generation, project coordination
 - [View on GitHub](https://github.com/jandraarias/f25-Copper)
 
 ---
