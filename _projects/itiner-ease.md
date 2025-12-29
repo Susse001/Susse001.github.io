@@ -8,7 +8,7 @@ tech:
   - TALL Stack
 ---
 
-## 🗺️ Itiner-ease
+## Itiner-ease
 
 AI-powered itinerary creation and recommendation application.
 
