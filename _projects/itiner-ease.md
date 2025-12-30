@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Itiner-ease
+excerpt: AI-powered itinerary creation and recommendation application.
 tech:
   - Laravel
   - OpenAI
