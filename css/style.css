@@ -22,19 +22,3 @@ a {
   color: #007acc;
   text-decoration: none;
 }
-
-.full-width-iframe {
-    position: relative;
-    left: 50%;
-    right: 50%;
-    margin-left: -50vw;
-    margin-right: -50vw;
-    width: 100vw;
-    max-width: 100vw;
-    padding: 0 20px;
-}
-
-.resume iframe {
-    width: 100%;
-    height: 900px;
-}
