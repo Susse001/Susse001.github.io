@@ -14,17 +14,9 @@ You can download my resume as a PDF below.
 
 ### View Resume
 
-<embed src="/assets/resume/Stephen_Usselman_Resume.pdf" 
-       type="application/pdf" 
-       width="100%" 
-       height="800px" />
-
-<!-- Alternatively, you can use an iframe:
-<iframe src="/assets/resume/Stephen_Usselman_Resume.pdf" 
+<iframe src="/assets/resume/Stephen_Usselman_resume.pdf" 
         width="100%" 
         height="800px"></iframe>
--->
-
 ---
 
 ### Related Links
