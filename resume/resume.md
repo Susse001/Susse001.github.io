@@ -16,7 +16,9 @@ You can download my resume as a PDF below.
 
 <iframe src="/assets/resume/Stephen_Usselman_Resume.pdf" 
         width="100%" 
-        height="800px"></iframe>
+        height="800px" 
+        style="border:1px solid #ccc;">
+</iframe>
 ---
 
 ### Related Links
