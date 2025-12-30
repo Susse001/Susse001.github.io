@@ -28,6 +28,6 @@ I’m a software developer with interests in data analysis, machine learning, an
 
 ---
 
-## 📫 Contact
+## Contact
 - GitHub: [Susse001](https://github.com/Susse001)
 - Email: zusselman@gmail.com
