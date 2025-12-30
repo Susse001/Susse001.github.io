@@ -22,3 +22,14 @@ a {
   color: #007acc;
   text-decoration: none;
 }
+
+body.resume-page .container {
+    max-width: 1200px; 
+    width: 95%;        
+}
+
+body.resume-page .resume-iframe {
+    width: 100%;
+    height: 900px;
+    border: 1px solid #ccc;
+}
