@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tsunami Prediction Model
+excerpt: Machine learning model predicting tsunami occurrence from seismic data.
 tech:
   - Python
   - Scikit-learn
