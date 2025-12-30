@@ -22,3 +22,8 @@ a {
   color: #007acc;
   text-decoration: none;
 }
+
+body.resume-page .container {
+    max-width: 800px; 
+    padding: 20px;
+}
