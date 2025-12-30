@@ -23,13 +23,13 @@ Implemented a classic **Producer–Consumer** problem using Java threads and syn
 ### Key Details
 - Producers and consumers implemented as independent threads
 - Shared buffer used for synchronization between threads
-- Evaluated system behavior across **18 experimental runs**
+- Evaluated system behavior across 18 experimental runs
 
 ### Metrics & Experiments
-- Producer threads: **2, 5, 10**
-- Consumer threads: **2, 5, 10**
-- Shared buffer sizes: **3, 10**
-- Total configurations tested: **18**
+- Producer threads: 2, 5, 10
+- Consumer threads: 2, 5, 10
+- Shared buffer sizes: 3, 10
+- Total configurations tested: 18
 
 ### Concepts Demonstrated
 - Thread synchronization
@@ -40,7 +40,7 @@ Implemented a classic **Producer–Consumer** problem using Java threads and syn
 
 ## Virtual Memory Management Comparison
 
-Designed and evaluated simulations comparing multiple **page replacement algorithms** under varying memory constraints.
+Designed and evaluated simulations comparing multiple page replacement algorithms under varying memory constraints.
 
 ### Algorithms Compared
 - FIFO (First-In, First-Out)
@@ -49,8 +49,8 @@ Designed and evaluated simulations comparing multiple **page replacement algorit
 - Optimal
 
 ### Metrics & Experiments
-- Page sizes: **512, 1024, 2048 bytes**
-- Frame counts: **4, 8, 12**
+- Page sizes: 512, 1024, 2048 bytes
+- Frame counts: 4, 8, 12
 - Evaluated memory utilization and replacement behavior
 
 ### Concepts Demonstrated
