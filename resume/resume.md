@@ -2,7 +2,6 @@
 layout: default
 title: Resume
 permalink: /resume/
-body_class: resume-page
 ---
 
 ## Resume
@@ -15,11 +14,13 @@ You can download my resume as a PDF below.
 
 ### View Resume
 
-<iframe src="/assets/resume/Stephen_Usselman_resume.pdf" 
-        width="100%" 
-        height="800px" 
-        style="border:1px solid #ccc;">
-</iframe>
+<div class="full-width-iframe">
+  <iframe src="/assets/resume/Stephen_Usselman_Resume.pdf" 
+          width="100%" 
+          height="900px" 
+          style="border:1px solid #ccc;">
+  </iframe>
+</div>
 ---
 
 ### Related Links
