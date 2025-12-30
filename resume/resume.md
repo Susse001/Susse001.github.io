@@ -8,14 +8,14 @@ permalink: /resume/
 
 You can download my resume as a PDF below.
 
-[Download Resume (PDF)](/assets/resume/Stephen_Usselman_Resume.pdf)
+[Download Resume (PDF)](/assets/resume/Stephen_Usselman_resume.pdf)
 
 ---
 
 ### View Resume
 
 <div class="full-width-iframe">
-  <iframe src="/assets/resume/Stephen_Usselman_Resume.pdf" 
+  <iframe src="/assets/resume/Stephen_Usselman_resume.pdf" 
           width="100%" 
           height="900px" 
           style="border:1px solid #ccc;">
