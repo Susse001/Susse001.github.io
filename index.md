@@ -11,7 +11,7 @@ I’m a software developer with interests in data analysis, machine learning, an
 ## Skills
 - Languages: C++, Python, PHP, Java, JavaScript
 - Machine Learning: Scikit-Learn, Pandas, Matplotlib
-- Tools & Frameworks: SQL (MySQL, SQLite), Git, Laravel, Gradle, Jira
+- Tools & Frameworks: Alpine.js, Tailwind.css, SQL, Git, Laravel, Gradle, Jira
 
 ---
 
