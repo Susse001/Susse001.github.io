@@ -14,12 +14,11 @@ You can download my resume as a PDF below.
 
 ### View Resume
 
-<div class="full-width-iframe">
-  <iframe src="/assets/resume/Stephen_Usselman_resume.pdf" 
-          class="resume-iframe"
-          frameborder="0">
-  </iframe>
-</div>
+<iframe src="/assets/resume/Stephen_Usselman_Resume.pdf" 
+        width="100%" 
+        height="1200px" 
+        style="border:1px solid #ccc;">
+</iframe>
 ---
 
 ### Related Links
