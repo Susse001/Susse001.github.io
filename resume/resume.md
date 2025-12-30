@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: resume
 title: Resume
 permalink: /resume/
-body_class: resume-page
+pdf_url: /assets/resume/Stephen_Usselman_resume.pdf
 ---
 
 ## Resume
