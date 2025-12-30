@@ -13,14 +13,6 @@ You can download my resume as a PDF below.
 
 ---
 
-### View Resume
-
-<iframe src="/assets/resume/Stephen_Usselman_resume.pdf"
-        class="resume-iframe"
-        frameborder="0">
-</iframe>
----
-
 ### Related Links
 - [GitHub](https://github.com/Susse001)
 - [Projects](/#projects)
