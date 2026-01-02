@@ -51,7 +51,7 @@ Preferences include (but are not limited to):
 
 This profile serves as the foundation for all itinerary generation logic.
 
-![Personalization Profile Example](/assets/itiner-ease/preferences.png)
+![Personalization Profile Example](/assets/itiner-ease/preferences.PNG)
 
 ---
 
@@ -67,7 +67,7 @@ Each itinerary includes:
 
 The generated itinerary provides a structured starting point that users can further refine.
 
-![Generated Itinerary Example](/assets/itiner-ease/itinerary1.png)
+![Generated Itinerary Example](/assets/itiner-ease/itinerary1.PNG)
 
 ---
 
@@ -82,7 +82,7 @@ At this stage, users can:
 
 Each itinerary item includes preference tags that reflect how the recommendation aligns with the user’s personalization profile, helping users understand and validate the selections made by the system.
 
-![Itinerary Item with Tags](/assets/itiner-ease/itinerary_item.png)
+![Itinerary Item with Tags](/assets/itiner-ease/itinerary_item.PNG)
 
 ---
 
