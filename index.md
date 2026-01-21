@@ -4,14 +4,14 @@ layout: default
 
 ## Hi, I’m Stephen Usselman
 
-I’m a software developer with interests in data analysis, machine learning, and large-language models.
+I’m a developer interested in backend services, system design, and practical AI integrations.
 
 ---
 
 ## Skills
 - Languages: C++, Python, PHP, Java, JavaScript
-- Machine Learning: Scikit-Learn, Pandas, Matplotlib
-- Tools & Frameworks: Alpine.js, Tailwind.css, SQL, Git, Laravel, Gradle, Maven
+- Frameworks and Libraries: Spring Boot, Laravel, Alpine, Tailwind, pandas, scikit-learn, matplotlib
+- Tools, Platforms, and APIs: AWS(Elastic Beanstalk, DynamoDB), OpenAI API, SQL, Git, Gradle, Jira
 
 ---
 
