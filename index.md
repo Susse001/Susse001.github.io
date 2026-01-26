@@ -11,7 +11,7 @@ I’m a developer interested in backend services, system design, and practical A
 ## Skills
 - Languages: C++, Python, PHP, Java, JavaScript
 - Frameworks and Libraries: Spring Boot, Laravel, Alpine, Tailwind, pandas, scikit-learn, matplotlib
-- Tools, Platforms, and APIs: AWS(Elastic Beanstalk, DynamoDB), OpenAI API, SQL, Git, Gradle, Jira
+- Tools, Platforms, and APIs: AWS(Elastic Beanstalk, DynamoDB), OpenAI API, SQL, Git, Gradle, Jira, CI/CD
 
 ---
 
