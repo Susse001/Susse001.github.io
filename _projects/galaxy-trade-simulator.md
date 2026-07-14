@@ -14,7 +14,7 @@ tech:
 - AWS
 - GitHub Actions
 - REST APIs
-github: github.com/Susse001/Stephenusselman.galaxytrade.sim
+github: https://github.com/Susse001/Stephenusselman.galaxytrade.sim
 ---
 
 # Galaxy Trade Simulator
