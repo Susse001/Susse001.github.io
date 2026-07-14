@@ -1,8 +1,9 @@
 ---
+layout: default
+title: Galaxy Trade Simulator
 excerpt: Full-stack distributed simulation of a procedural galactic
   economy featuring autonomous AI traders, dynamic markets, and
   cloud-native deployment on AWS.
-layout: default
 tech:
 - Java
 - Spring Boot
@@ -13,7 +14,7 @@ tech:
 - AWS
 - GitHub Actions
 - REST APIs
-title: Galaxy Trade Simulator
+github:https://github.com/Susse001/Stephenusselman.galaxytrade.sim
 ---
 
 # Galaxy Trade Simulator
